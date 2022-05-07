@@ -11,7 +11,7 @@ and at same time enriching them.
     - Troubleshoot issue in Layer 7 policy configurations and gateway level issues.
     - Message flow automation in Linux environment using shell scripting.
     - Exposure to Software Development Life Cycle and ITIL methodologies.
-    -  Excellent communication skills, quick learning capability, analytical/problem solving skills.
+    - Excellent communication skills, quick learning capability, analytical/problem solving skills.
     - Eager to learn emerging technologies and adapt.
 
 ## Education
