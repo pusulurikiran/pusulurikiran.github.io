@@ -18,3 +18,5 @@ and at same time enriching them.
     * M.Tech in Information Technology (Networking), VIT University.Completed with 8.07 CGPA
     * B.Tech in Electronics and Communication Engineering,St. Ann’s college of Engineering and Technology.Completed with 67.31%
     * Completed 12th with 86.2 % and 10th in Vishva Shanti English Medium school with 75.5% and
+    
+## PROJECTS
